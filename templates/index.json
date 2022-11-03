@@ -31,6 +31,7 @@
         "template--16617840574686__daf98fe7-06eb-4506-9328-e6915d390828-166746842699d3c6a2-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/secam.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
