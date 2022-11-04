@@ -43,9 +43,19 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "284386f2-131d-4ab5-b55c-203852f40a03": {
+      "type": "custom-banner",
+      "settings": {
+        "banner_product_title": "Le titre de ma supersection",
+        "banner_product_text": "Lorem ipsum dolor sit amet. Et voluptate maxime 33 consequatur consequatur est quod laudantium sit tenetur recusandae qui quasi nisi cum placeat nihil! Qui dolorum architecto non deserunt ipsum sed ipsam saepe!",
+        "product": "",
+        "subtitle": "Plus de 700 clients satisfaits ! 🌟"
+      }
     }
   },
   "order": [
-    "daf98fe7-06eb-4506-9328-e6915d390828"
+    "daf98fe7-06eb-4506-9328-e6915d390828",
+    "284386f2-131d-4ab5-b55c-203852f40a03"
   ]
 }
