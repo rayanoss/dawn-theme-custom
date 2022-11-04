@@ -117,26 +117,12 @@
         "padding_bottom": 36
       }
     },
-    "701ab66e-788d-443a-b514-f6ac9a11f826": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16617840574686__701ab66e-788d-443a-b514-f6ac9a11f826-16675693975359ad5d-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>“Easily my best purchase of the year.It was painless and didn't cause any frictioneven when it was rubbed on the skin. I highly recommend.”<\/p><p>Jane M. - <strong>Verified Buyer<\/strong><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--16617840574686__701ab66e-788d-443a-b514-f6ac9a11f826-16675693975359ad5d-1"
-      ],
+    "441608dd-477a-488f-9179-4852c46e7e70": {
+      "type": "testimonial",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "customer_testimonial_text": "",
+        "customer_testimonial_name": "",
+        "show_badge_verif": true
       }
     },
     "f7413315-3f12-4eed-ae87-a75876d826fc": {
@@ -217,7 +203,7 @@
     "49e64323-40d6-40ac-9b84-f7c209d2bd03",
     "e7ffb98b-d730-428b-989f-bdbb00bf13ed",
     "e00020a1-f2a0-4c3b-9710-784abbc8ec98",
-    "701ab66e-788d-443a-b514-f6ac9a11f826",
+    "441608dd-477a-488f-9179-4852c46e7e70",
     "f7413315-3f12-4eed-ae87-a75876d826fc",
     "e2b96e75-a26b-4774-a306-2517b330665b"
   ]
