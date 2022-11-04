@@ -15,7 +15,8 @@
         "template--16617840574686__49e64323-40d6-40ac-9b84-f7c209d2bd03-166756577273a538d9-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "image": "shopify:\/\/shop_images\/unnamed.png",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""
@@ -24,7 +25,8 @@
         "template--16617840574686__49e64323-40d6-40ac-9b84-f7c209d2bd03-166756577273a538d9-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "image": "shopify:\/\/shop_images\/unnamed.png",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""
