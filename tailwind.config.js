@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ['./templates/index.liquid', './templates/index.custom.liquid'],
+  content: ['./templates/index.liquid', './templates/index.custom.liquid', './sections/*'],
   theme: {
     extend: {
       colors: {
