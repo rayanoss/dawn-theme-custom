@@ -52,10 +52,54 @@
         "product": "",
         "subtitle": "Plus de 700 clients satisfaits ! 🌟"
       }
+    },
+    "49e64323-40d6-40ac-9b84-f7c209d2bd03": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16617840574686__49e64323-40d6-40ac-9b84-f7c209d2bd03-166756577273a538d9-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16617840574686__49e64323-40d6-40ac-9b84-f7c209d2bd03-166756577273a538d9-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16617840574686__49e64323-40d6-40ac-9b84-f7c209d2bd03-166756577273a538d9-0",
+        "template--16617840574686__49e64323-40d6-40ac-9b84-f7c209d2bd03-166756577273a538d9-1"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "daf98fe7-06eb-4506-9328-e6915d390828",
-    "284386f2-131d-4ab5-b55c-203852f40a03"
+    "284386f2-131d-4ab5-b55c-203852f40a03",
+    "49e64323-40d6-40ac-9b84-f7c209d2bd03"
   ]
 }
