@@ -1,4 +1,4 @@
-<section>
+<section class="px-6 mx-auto py-20 bg-secam-dark-blue text-secam-white">
   <h1 class="text-[45px] relative leading[1.55] font-bold text-white">
     <span class="relative z-10 after:content-[''] after:absolute after:w-[95%] after:h-[5px] after:rounded-md after:bg-secam-light-blue after:left-0 after:bottom-3 after:z-[-1]">Le titre de ma super</span><br>section
   </h1>
@@ -11,8 +11,7 @@
   {
     "name": "Banner with best product",
     "tag": "section",
-    "class": "px-6 mx-auto py-20 bg-secam-dark-blue text-secam-white",
-    "limit": 1,
+    "class": "section",
     "settings": [
       {
         "type": "text",
@@ -32,6 +31,10 @@
         "label": "Banner subtitle"
       }
     ],
-    "templates": ["index"]
+    "presets": [
+      {
+        "name": "Banner with best product"
+      }
+    ]
   }
 {% endschema %}
