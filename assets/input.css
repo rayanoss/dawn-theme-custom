@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .btn-white {
+        @apply bg-white text-secam-dark-blue px-[20px] py-[10px] text-3xl font-semibold mt-10 
+    }
+
+    .btn-dark-blue {
+        @apply bg-secam-dark-blue text-white px-[20px] py-[10px] text-3xl font-semibold mt-10 
+    }
+
+    .absolute-center{
+        @apply top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]
+    }
+}

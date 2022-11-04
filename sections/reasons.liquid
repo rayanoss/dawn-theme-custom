@@ -1,0 +1,69 @@
+<img loading="lazy" height="auto" width="auto" src="https://cdn.shopify.com/s/files/1/0658/5093/3470/files/secam.png?v=1667468905" alt=""/>
+<h2 class="font-bold text-4xl mt-5">3 bonnes raisons d'acheter un visiophone</h2>
+<div class="pt-4">
+  <div class="flex justify-between items-center text-3xl border-b-2 border-gray-300 mt-5 py-3">
+    <div class="relative w-[55px] h-[55px] font-bold">
+      <div class="w-full h-full bg-secam-light-blue absolute after:z-0 rounded-full left-[50%] translate-x-[-50%]"></div>
+      <p class="absolute z-10 w-[50px] h-[50px] flex justify-center items-center  bg-gray-200 rounded-full absolute-center">1</p>
+    </div>
+    <p class="w-[75%]">Said the appearance of their strawberry legs improved</p>
+  </div>
+  <div class="flex justify-between items-center text-3xl border-b-2 border-gray-300 mt-5 py-3">
+    <div class="relative w-[55px] h-[55px] font-bold">
+      <div class="w-full h-full bg-secam-light-blue absolute after:z-0 rounded-full left-[50%] translate-x-[-50%]"></div>
+      <p class="absolute z-10 w-[50px] h-[50px] flex justify-center items-center  bg-gray-200 rounded-full absolute-center">2</p>
+    </div>
+    <p class="w-[75%]">Noticed a reduction in the appearance of ingrown hairs</p>
+  </div>
+  <div class="flex justify-between items-center text-3xl border-b-2 border-gray-300 mt-5 py-3">
+    <div class="relative w-[55px] h-[55px] font-bold">
+      <div class="w-full h-full bg-secam-light-blue absolute after:z-0 rounded-full left-[50%] translate-x-[-50%]"></div>
+      <p class="absolute z-10 w-[50px] h-[50px] flex justify-center items-center  bg-gray-200 rounded-full absolute-center">3</p>
+    </div>
+    <p class="w-[75%]">Saw an improvement in the look of skin firmness</p>
+  </div>
+</div>
+<button class="btn-dark-blue">Buy it now</button>
+
+
+{% schema %}
+  {
+    "name": "List of reasons",
+    "tag": "section",
+    "class": "px-6 mx-auto py-20 bg-gray-200",
+    "limit": 1,
+    "settings": [
+      {
+        "type": "text",
+        "id": "section_reasons_title",
+        "label": "Title of reasons section"
+      }, {
+        "type": "product",
+        "id": "highlighted_product",
+        "label": "Set highlighted product"
+      }, {
+        "type": "text",
+        "id": "button_text",
+        "label": "Set button text"
+      }
+    ],
+    "max_blocks": 3,
+    "blocks": [
+      {
+        "name": "Reason",
+        "type": "reason_item",
+        "settings": [
+          {
+            "type": "text",
+            "id": "reason_number",
+            "label": "Reason number"
+          }, {
+            "type": "text",
+            "id": "reason_description",
+            "label": "Describe the reason"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

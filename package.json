@@ -1,0 +1,23 @@
+{
+  "name": "dawn-theme-custom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tailbuild": "npx tailwindcss -i ./assets/input.css -o ./assets/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayanoss/dawn-theme-custom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayanoss/dawn-theme-custom/issues"
+  },
+  "homepage": "https://github.com/rayanoss/dawn-theme-custom#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.1"
+  }
+}
