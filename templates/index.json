@@ -234,14 +234,14 @@
         "template--16617840574686__03c41fb2-6bf9-4bf1-bf83-26c59d69b53e-1667574256dc9c1347-2"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
