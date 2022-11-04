@@ -43,9 +43,100 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "284386f2-131d-4ab5-b55c-203852f40a03": {
+      "type": "custom-banner",
+      "settings": {
+        "banner_product_title": "Le titre de ma supersection",
+        "banner_product_text": "Lorem ipsum dolor sit amet. Et voluptate maxime 33 consequatur consequatur est quod laudantium sit tenetur recusandae qui quasi nisi cum placeat nihil! Qui dolorum architecto non deserunt ipsum sed ipsam saepe!",
+        "product": "",
+        "subtitle": "Plus de 700 clients satisfaits ! 🌟"
+      }
+    },
+    "49e64323-40d6-40ac-9b84-f7c209d2bd03": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16617840574686__49e64323-40d6-40ac-9b84-f7c209d2bd03-166756577273a538d9-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16617840574686__49e64323-40d6-40ac-9b84-f7c209d2bd03-166756577273a538d9-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16617840574686__49e64323-40d6-40ac-9b84-f7c209d2bd03-166756577273a538d9-0",
+        "template--16617840574686__49e64323-40d6-40ac-9b84-f7c209d2bd03-166756577273a538d9-1"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e7ffb98b-d730-428b-989f-bdbb00bf13ed": {
+      "type": "reasons",
+      "blocks": {
+        "c58f1d19-1e7e-4c0c-b046-96f1d612427e": {
+          "type": "reason_item",
+          "settings": {
+            "reason_number": "1",
+            "reason_description": "Said the appearance of their strawberry legs improved"
+          }
+        },
+        "228096a5-4553-4348-b719-514c6204c175": {
+          "type": "reason_item",
+          "settings": {
+            "reason_number": "2",
+            "reason_description": "Noticed a reduction in the appearance of ingrown hairs"
+          }
+        },
+        "d04b1e2c-f539-4953-a1f5-ea3fef101b67": {
+          "type": "reason_item",
+          "settings": {
+            "reason_number": "3",
+            "reason_description": "Saw an improvement in the look of skin firmness"
+          }
+        }
+      },
+      "block_order": [
+        "c58f1d19-1e7e-4c0c-b046-96f1d612427e",
+        "228096a5-4553-4348-b719-514c6204c175",
+        "d04b1e2c-f539-4953-a1f5-ea3fef101b67"
+      ],
+      "settings": {
+        "section_reasons_title": "3 bonnes raisons d'acheter un visiophone",
+        "highlighted_product": "",
+        "button_text": "Buy it now!"
+      }
     }
   },
   "order": [
-    "daf98fe7-06eb-4506-9328-e6915d390828"
+    "daf98fe7-06eb-4506-9328-e6915d390828",
+    "284386f2-131d-4ab5-b55c-203852f40a03",
+    "49e64323-40d6-40ac-9b84-f7c209d2bd03",
+    "e7ffb98b-d730-428b-989f-bdbb00bf13ed"
   ]
 }
