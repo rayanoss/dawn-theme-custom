@@ -38,13 +38,13 @@
         "template--16617840574686__49e64323-40d6-40ac-9b84-f7c209d2bd03-166756577273a538d9-1"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "Ils parlent de nous",
         "heading_size": "h1",
-        "image_width": "third",
+        "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "primary",
+        "column_alignment": "center",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
