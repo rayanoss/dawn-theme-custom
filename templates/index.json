@@ -89,11 +89,39 @@
         "highlighted_product": "",
         "button_text": "Buy it now!"
       }
+    },
+    "e00020a1-f2a0-4c3b-9710-784abbc8ec98": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Nos visiophones",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "frontpage",
+        "products_to_show": 2,
+        "columns_desktop": 2,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "284386f2-131d-4ab5-b55c-203852f40a03",
     "49e64323-40d6-40ac-9b84-f7c209d2bd03",
-    "e7ffb98b-d730-428b-989f-bdbb00bf13ed"
+    "e7ffb98b-d730-428b-989f-bdbb00bf13ed",
+    "e00020a1-f2a0-4c3b-9710-784abbc8ec98"
   ]
 }
