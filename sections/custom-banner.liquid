@@ -1,12 +1,18 @@
-<section class="px-6 mx-auto py-20 bg-secam-dark-blue text-secam-white">
-  <h1 class="text-[45px] relative leading[1.55] font-bold text-white">
-    <span class="relative z-10 after:content-[''] after:absolute after:w-[95%] after:h-[5px] after:rounded-md after:bg-secam-light-blue after:left-0 after:bottom-3 after:z-[-1]">Le titre de ma super</span><br>section
+<section class="px-20 mx-auto py-20 bg-secam-dark-blue text-secam-white md:flex md:flex-row-reverse md:items-center">
+  <h1 class="text-4xl uppercase leading[1.55] font-bold text-white md:hidden">
+    Le super titre de ma section
   </h1>
-  <img class="" src="https://cdn.shopify.com/s/files/1/0658/5093/3470/files/mockup-phone-solo.png?v=1667474963" alt="#" loading="lazy" width="auto" height="auto"/>
-  <p>Lorem ipsum dolor sit amet. Et voluptate maxime 33 consequatur consequatur est quod laudantium sit tenetur recusandae qui quasi nisi cum placeat nihil! Qui dolorum architecto non deserunt ipsum sed ipsam saepe!</p>
-  <button class="btn-white" onclick="location.href = 'www.yoursite.com';">Shop now</button>
-  <p class="mt-6 text-xl text-secam-white">Plus de 700 clients satisfaits ! 🌟</p>
+  <img class="md:w-1/2" src="https://cdn.shopify.com/s/files/1/0658/5093/3470/files/mockup-phone-solo.png?v=1667474963" alt="#" loading="lazy" width="auto" height="auto"/>
+  <div>
+    <h1 class="text-4xl hidden uppercase leading[1.55] font-bold text-white md:block">
+      Le super titre de ma section
+    </h1>
+    <p class="text-secam-white mt-6">Lorem ipsum dolor sit amet. Et voluptate maxime 33 consequatur consequatur est quod laudantium sit tenetur recusandae qui quasi nisi cum placeat nihil! Qui dolorum architecto non deserunt ipsum sed ipsam saepe!</p>
+    <button class="btn-white" onclick="location.href = 'www.yoursite.com';">Shop now</button>
+    <p class="mt-6 text-xl text-secam-white">Plus de 700 clients satisfaits ! 🌟</p>
+  </div>
 </section>
+
 {% schema %}
   {
     "name": "Banner with best product",

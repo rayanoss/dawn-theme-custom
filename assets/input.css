@@ -4,11 +4,11 @@
 
 @layer components{
     .btn-white {
-        @apply bg-white text-secam-dark-blue px-[20px] py-[10px] text-3xl font-semibold mt-10 
+        @apply bg-white text-secam-dark-blue px-[20px] py-[5px] text-2xl font-semibold mt-6
     }
 
     .btn-dark-blue {
-        @apply bg-secam-dark-blue text-white px-[20px] py-[10px] text-3xl font-semibold mt-10 
+        @apply bg-secam-dark-blue text-white px-[20px] py-[5px] text-2xl font-semibold mt-6 
     }
 
     .absolute-center{
