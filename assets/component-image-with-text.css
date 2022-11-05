@@ -26,6 +26,10 @@
 }
 
 @media screen and (min-width: 750px) {
+
+  .image-with-text__text-item.grid__item{
+    padding: 15px;
+  }
   .image-with-text__media--small {
     height: 31.4rem;
   }
