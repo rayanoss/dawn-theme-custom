@@ -989,6 +989,8 @@ summary::-webkit-details-marker {
 
 .title-wrapper--no-top-margin > .title {
   margin-top: 0;
+  font-weight: bold;
+  text-transform: uppercase;
 }
 
 .subtitle {
