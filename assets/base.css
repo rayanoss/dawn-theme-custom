@@ -344,9 +344,7 @@ body,
   list-style: none;
 }
 
-.hidden {
-  display: none;
-}
+
 
 .visually-hidden {
   position: absolute !important;
