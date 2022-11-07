@@ -636,6 +636,14 @@ video {
   margin-top: 1.25rem;
 }
 
+.mr-6 {
+  margin-right: 1.5rem;
+}
+
+.mr-8 {
+  margin-right: 2rem;
+}
+
 .block {
   display: block;
 }
@@ -912,5 +920,9 @@ video {
   .lg\:mx-8 {
     margin-left: 2rem;
     margin-right: 2rem;
+  }
+
+  .lg\:justify-around {
+    justify-content: space-around;
   }
 }
